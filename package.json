@@ -1,0 +1,12 @@
+{
+  "name": "cordova-vue",
+  "version": "1.0.4",
+  "description": "Simple cordova template with vue.",
+  "main": "index.js",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Nimbo",
+  "license": "Apache-2.0"
+}
