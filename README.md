@@ -15,6 +15,9 @@ package
 ### Install npm
 Install npm for preview in browser.
 ```bash
+# create cordova proyect with this template
+cordova create hello com.example.hello HelloWorld --template cordova-vue
+
 # install dependencies
 npm install
 
