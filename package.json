@@ -1,8 +1,13 @@
 {
   "name": "cordova-vue",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple cordova template with vue.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimbomx/cordova-vue.git"
+  },
+  "homepage": "https://github.com/nimbomx/cordova-vue",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
@@ -10,3 +15,4 @@
   "author": "Nimbo",
   "license": "Apache-2.0"
 }
+
